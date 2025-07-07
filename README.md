@@ -16,7 +16,7 @@ The goal was to help business stakeholders:
 
 ## Dashboard Snapshot
 
-![Dashboard Overview](assets/dashboard-screenshot.jpg)
+![Dashboard Overview](assets/screenshot2025-07-08113027.jpg)
 
 Key KPIs:
 - **Total Quantity Sold**: 396K  
