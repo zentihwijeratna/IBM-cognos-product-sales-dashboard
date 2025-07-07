@@ -16,9 +16,8 @@ The goal was to help business stakeholders:
 
 ## Dashboard Snapshot
 
-![Dashboard Overview](assets/screenshot2025-07-08113027.jpg)
+Key KPIs:![Screenshot 2025-07-08 111905](https://github.com/user-attachments/assets/ffa8af1b-04f8-4618-9e23-4125542a4cdb)
 
-Key KPIs:
 - **Total Quantity Sold**: 396K  
 - **Total Revenue**: $229M
 
