@@ -37,9 +37,8 @@ The dataset contains anonymized customer purchase records. Each row represents a
 | Financials | Unit Sale Price, Unit Cost, Revenue, Lifetime Value |
 
 Sample:
-![Data Preview](assets/dataset-preview.png)
 
----
+---![Screenshot 2025-07-08 113240](https://github.com/user-attachments/assets/a5f1c335-708f-407a-9838-6b3316ca5639)
 
 ## Tools & Technologies
 
@@ -58,13 +57,6 @@ Sample:
 
 ---
 
-## Video Walkthrough (Optional)
-
-If you have a video explaining the dashboard:  
-👉 [Click here to watch the dashboard walkthrough](#)
-
----
-
 ## Next Steps / Improvements
 
 - Add drill-down by region or loyalty segment
@@ -75,7 +67,7 @@ If you have a video explaining the dashboard:
 
 ## Let’s Connect
 
-If you'd like to collaborate or want feedback on similar projects, feel free to [connect on LinkedIn](#)!
+If you'd like to collaborate or want feedback on similar projects, feel free to https://www.linkedin.com/in/zenith-wijeratna/
 
 ---
 
